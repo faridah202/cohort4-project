@@ -26,8 +26,8 @@ Users would be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/faridah202/cohort4-project.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/faridah202/cohort4-project.git]
+- Live Site URL: [https://sweet-pastelito-ad5299.netlify.app/]
 
 ## My process
 
@@ -55,11 +55,11 @@ I learnt about placing css class in bootstrap, that i had to put a class of what
 
 ### Continued development
 
-I want to learn more Bootstrap, and practice it more. my understanding is alittle below average.
+I want to learn more Bootstrap, and practice it more. my understanding is below average.
 
 ### Useful resources
 
-- [Example resource 1](https://getbootstrap.com/docs/5.1/Container/) - This helped me understand how conainers and Container-fluid worked.
+- [https://getbootstrap.com/docs/5.1/Container/] - This helped me understand how conainers and Container-fluid worked.
 
 ## Author
 
