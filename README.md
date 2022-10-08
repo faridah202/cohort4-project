@@ -1,33 +1,67 @@
-## Welcome! 👋
 
-To do this challenge, you need a basic understanding of HTML, CSS and Bootstrap.
+## Table of contents
 
-## The challenge
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-Your challenge is to build on this portolio template and get it looking as you desire.
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+## Overview
 
-## Your users should be able to:
+### The challenge
 
-View the optimal layout for the site depending on their device's screen size
-See hover states for all interactive elements on the page
-Where to find everything
+Users would be able to:
 
-You will find all the required assets in the /images folder. The assets are already optimized.
+- View the optimal layout depending on their device's screen size
 
-## Building your project
+### Screenshot
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+![](./Screenshot%20(83).png)
 
-1. Initialize your project as a public repository on GitHub. This will make it easier to share your code with the community if you need some help. If you're not sure how to do this, have a read through of this Try Git resource.
-2. Configure your repository to publish your code to a URL. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, but we recommend using netlify.
+### Links
 
-## Deploying your project
+- Solution URL: [solution URL](https://github.com/faridah202/cohort4-project.git)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-As mentioned above, there are a number of ways to host your project for free. We recommend using netflify as it's an amazing service and extremely simple to get set up with.
+## My process
 
-3. Sign up to netlify and go through the onboarding flow, ensuring your GitHub account is connected by using their netlify for GitHub integration.
-4. Connect your project to netlify from the "Import project" page, using the "From Git Repository" button and selecting the project you want to deploy.
-   Once connected, every time you git push, netlify will create a new deployment and the deployment URL will be shown on your Dashboard.
+### Built with
 
-**Have fun building!** 🚀
+- Semantic HTML5 markup
+- HTML
+- CSS 
+- Media queries
+- Bootstrap
+- Javascript
+- Fonts
+- Php
+
+### What I learned
+
+I learnt about placing css class in bootstrap, that i had to put a class of what i wanted to style inside the bootstrap class/ like together.
+```html
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-8 p-2 solid">
+                <a href="#" target="blank"><img src="./work 7.png" class="img-fluid" alt="work 7" width="450"
+                    height="250"></a>
+                     #Solid here is a css class that leads to a an external css.
+```
+
+
+### Continued development
+
+I want to learn more Bootstrap, and practice it more. my understanding is alittle below average.
+
+### Useful resources
+
+- [Example resource 1](https://getbootstrap.com/docs/5.1/Container/) - This helped me understand how conainers and Container-fluid worked.
+
+## Author
+
+- Website - [faridatoricha](https://github.com/faridah202)
+- Frontend Mentor - [@faridah202](https://www.frontendmentor.io/profile/faridah202)
