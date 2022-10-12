@@ -49,13 +49,13 @@ I learnt about placing css class in bootstrap, that i had to put a class of what
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-8 p-2 solid">
                 <a href="#" target="blank"><img src="./work 7.png" class="img-fluid" alt="work 7" width="450"
                     height="250"></a>
-                     #Solid here is a css class that leads to a an external css.
+                     #Solid here is a css class thats in an external css.
 ```
 
 
 ### Continued development
 
-I want to learn more Bootstrap, and practice it more. my understanding is below average.
+I want to practice bootstrap more.
 
 ### Useful resources
 
