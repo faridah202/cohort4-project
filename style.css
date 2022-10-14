@@ -50,10 +50,13 @@ body.demos .service-widget h3 {
      border: 2px solid white;
 }
 .grad{
-    background-image: linear-gradient(#A91B60,#FF0080, #A91B60);
+    background-color: burlywood;
 }
 .ground{
-    background-color: #821D30;
+    background-color: burlywood;
+}
+.change{
+    color:brown;
 }
 
 body.demos .service-widget {
@@ -1030,12 +1033,10 @@ body.app_version .header_style_01.fixed-menu{
     CONTACT
 -------------------------------------------------------------------*/
 
-#contact{
-	background: #333333;
-}
+
 
 #contact .section-title h3{
-	color: #ffffff;
+	color: burlywood;
 }
 
 
