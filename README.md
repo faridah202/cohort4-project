@@ -27,7 +27,7 @@ Users would be able to:
 ### Links
 
 - Solution URL: [https://github.com/faridah202/cohort4-project.git]
-- Live Site URL: [https://sweet-pastelito-ad5299.netlify.app/]
+- Live Site URL: [https://visionary-semolina-f85903.netlify.app/]
 
 ## My process
 
